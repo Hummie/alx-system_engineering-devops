@@ -12,3 +12,8 @@ chmod --reference=olleh hello : Mirror permissions
 chmod -R ugo+x . : Giving permissions to all subdirectories in the current directory
 mkdir -m 751 my_dir : Create a directory my_dir and assign permissions 751
 chgrp school hello : Change group for file hello
+chown vincent:staff * : changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+chown -h vincent:staff _hello : changes the owner and the group owner of _hello to vincent and staff respectively. Hello is a symbolic link
+chown --from=guillaume betty hello :changes the owner of the file hello to betty only if it is owned by the user guillaume.
+telnet towel.blinkenlights.nl :plays starwars IV episoe inside the terminal
+
