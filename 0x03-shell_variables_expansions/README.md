@@ -9,3 +9,4 @@
 8: Addition of variabe and expansion.
 9: Divison of variables
 10: Exponentiation.
+11: Converting Binary to decimal.
