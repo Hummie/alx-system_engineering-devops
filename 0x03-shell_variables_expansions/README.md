@@ -4,3 +4,4 @@
 3: Displaying number of directories in PATH.
 4: Printing list of environment variables.
 5: Displaying list of local variables.
+6: Creating a local variable
