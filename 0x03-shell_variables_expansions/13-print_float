@@ -1,2 +1,2 @@
-#!/bin/basj
+#!/bin/bash
 printf "%.2f\n" $NUM
