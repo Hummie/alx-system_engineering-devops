@@ -10,3 +10,4 @@
 9: Divison of variables
 10: Exponentiation.
 11: Converting Binary to decimal.
+12: Combinations
