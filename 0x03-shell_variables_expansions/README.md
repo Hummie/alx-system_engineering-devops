@@ -6,3 +6,4 @@
 5: Displaying list of local variables.
 6: Creating a local variable
 7: Creating a global variable.
+8: Addition of variabe and expansion.
