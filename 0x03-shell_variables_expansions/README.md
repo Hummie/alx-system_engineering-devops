@@ -8,3 +8,4 @@
 7: Creating a global variable.
 8: Addition of variabe and expansion.
 9: Divison of variables
+10: Exponentiation.
