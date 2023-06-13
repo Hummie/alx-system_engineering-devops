@@ -12,3 +12,6 @@
 11: Converting Binary to decimal.
 12: Combinations
 13: Float numbers
+14: Decimal to hexadecimal.
+15: Decoding and encoding with rot13
+
