@@ -14,4 +14,5 @@
 13: Float numbers
 14: Decimal to hexadecimal.
 15: Decoding and encoding with rot13
+16: Odd lines
 
